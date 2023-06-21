@@ -31,3 +31,4 @@ indices:
     exclude:
       - '/de/blog/drafts/**'
     target: /de/blog/query-index.xlsx
+ 
